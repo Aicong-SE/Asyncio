@@ -4,6 +4,8 @@ asyncio是用来编写并发代码的库，被用作多个提供高性能Python�
 
 高层级API
 
+版本：Python3.7+
+
 * 协程与任务
 * 流
 * Synchronization Primitives
